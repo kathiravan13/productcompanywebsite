@@ -273,8 +273,7 @@ people.html
 </html> 
 ## OUTPUT:
 
-![1](https://user-images.githubusercontent.com/119831303/215663739-0b387cd5-fc99-4ab0-8d88-0486c6465b75.png)
-
+![1](https://user-images.githubusercontent.com/119831303/215664191-0e43621a-8690-411b-8dbf-828254899ba2.png)
 
 
 
