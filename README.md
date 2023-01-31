@@ -271,19 +271,16 @@ people.html
     </div>
   </body>
 </html> 
+```
 ## OUTPUT:
 
-![1](https://user-images.githubusercontent.com/119831303/215664191-0e43621a-8690-411b-8dbf-828254899ba2.png)
+![1](https://user-images.githubusercontent.com/119831303/215664579-7f697b1e-9217-464b-b231-81bab4889169.png)
 
+![2](https://user-images.githubusercontent.com/119831303/215664925-2f66bd27-9d57-45c4-a9c3-4c527e28a259.png)
 
+![3](https://user-images.githubusercontent.com/119831303/215664991-0c390eb4-ff1c-4ec2-9204-ce9f7c0b26f2.png)
 
-
-
-
-
-
-
-
+![4](https://user-images.githubusercontent.com/119831303/215665021-feef0a17-f5fd-4f2e-a58b-565326b76c62.png)
 
 
 ## Result:
