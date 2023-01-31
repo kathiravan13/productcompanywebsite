@@ -272,15 +272,19 @@ people.html
   </body>
 </html> 
 ## OUTPUT:
+![1](https://user-images.githubusercontent.com/119831303/215662982-fbe9f6e2-60b0-4d6f-9004-fec60e578b1f.png)
 
 
-![Screenshot (135)](https://user-images.githubusercontent.com/119831303/215660509-4b324235-316f-4e7b-bf38-eb12df577785.png)
+![2](https://user-images.githubusercontent.com/119831303/215663016-b8a93e17-dc40-4e3b-8f0d-ef1c63fc2743.png)
 
-![Screenshot (137)](https://user-images.githubusercontent.com/119831303/215660529-eb8c3eae-e115-4bf2-a522-e80a2183b81a.png)
 
-![Screenshot (139)](https://user-images.githubusercontent.com/119831303/215660548-7e3db5e2-4f96-41a7-b5b2-4b2728faf724.png)
+![3](https://user-images.githubusercontent.com/119831303/215663048-3ff61f62-b95c-40a5-a628-243776f6b702.png)
 
-![Screenshot (141)](https://user-images.githubusercontent.com/119831303/215660566-2d701da9-eab9-4809-a12f-60bab13917fd.png)
+
+![4](https://user-images.githubusercontent.com/119831303/215663085-613c725e-6d83-4734-b8ec-7fb2ed8f9fd3.png)
+
+
+
 
 
 ## Result:
